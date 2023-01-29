@@ -23,3 +23,11 @@ li, .main-list {
     color: black;
     font-size: 30px;
 }
+
+img {
+    height: 350px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
